@@ -1,0 +1,31 @@
+{
+  "name": "cmcs_backend_express",
+  "version": "1.0.0",
+  "description": "Backend de una aplicación móvil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscarcamo94/cmcs_backend_express.git"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "carlos",
+    "manuel",
+    "carcamo",
+    "segovia"
+  ],
+  "author": "Carlos Manuel Cárcamo Segovia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloscarcamo94/cmcs_backend_express/issues"
+  },
+  "homepage": "https://github.com/carloscarcamo94/cmcs_backend_express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
